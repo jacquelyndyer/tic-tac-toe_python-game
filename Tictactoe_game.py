@@ -115,12 +115,5 @@ while not end:
     
     #change turn
     turn = 2 if turn == 1 else 1
-## Show the grid and tell who's turn it is
-## Ask where to place a mark
-## Check for end scenarios
-## repeat
-
-# Display the result
-## Say who end, or if there is a tie
 
 
